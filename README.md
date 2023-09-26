@@ -3,10 +3,10 @@ Vue 3 + TypeScript + Vite + Axios
 
 ### Setup project
 ```
-yarn
+npm i
 ```
 
 ### Development Mode
 ```
-yarn dev
+npm run dev
 ```
